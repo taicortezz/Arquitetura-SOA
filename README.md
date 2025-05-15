@@ -3,13 +3,11 @@
 **Nome:** Tainá de Paiva Cortez  
 **Grupo:** 02
 
-## Descrição da Atividade
+## Proposta da Atividade
 
-### Item 1  
-Desenvolver uma arquitetura SOA simples utilizando um diagrama de componentes, considerando os principais blocos do sistema e a integração com serviços externos. A atividade também exige a justificativa das escolhas feitas na arquitetura.
+1. Construa uma arquitetura SOA simples que leve em conta os blocos principais do sistema assim como a integração com os componentes de serviços da arquitetura SOA - Justifique os pontos da sua arquitetura. 
 
-### Item 2  
-Listar e justificar pelo menos cinco requisitos não funcionais relevantes para o sistema, explicando sua importância e como se relacionam com a arquitetura SOA proposta.
+2. Liste pelo menos 5 requisitos não funcionais deste sistema justificando a necessidade deste requisito assim como a sua relação ou necessidade dentro da arquitetura SOA.
 
 ---
 
